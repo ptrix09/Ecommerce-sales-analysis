@@ -6,7 +6,7 @@ It performs data cleaning, exploratory data analysis (EDA), and creates interact
 ---
 
 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -43,7 +43,8 @@ VS Code for development
 ---
 
 📌 Dataset
-Dataset has been downloaded from kaggle and is present in : data/raw in our repository
+Dataset has been downloaded from kaggle for educational purposes. 
+link : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
